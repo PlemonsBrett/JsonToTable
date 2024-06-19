@@ -1,0 +1,10 @@
+.uploader-container {
+  margin-bottom: 20px;
+  padding: 20px;
+  background: linear-gradient(135deg, #1e1b3c, #1b1a34);
+  border-radius: 8px;
+}
+
+.file-input {
+  color: #fff;
+}

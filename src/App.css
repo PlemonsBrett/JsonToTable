@@ -1,0 +1,11 @@
+.app-container {
+  background-color: #19172f;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.title {
+  color: #fff;
+  font-size: 2em;
+  margin-bottom: 20px;
+}

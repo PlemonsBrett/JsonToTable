@@ -1,0 +1,31 @@
+.table-container {
+  overflow-x: auto;
+  background: linear-gradient(135deg, #b5a6e6, #19172f);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #fff;
+}
+
+.data-table th,
+.data-table td {
+  padding: 12px;
+  border: 1px solid #b5a6e6;
+  text-align: left;
+}
+
+.data-table th {
+  background-color: #19172f;
+}
+
+.data-table tr:nth-child(even) {
+  background-color: rgba(181, 166, 230, 0.1);
+}
+
+.no-data {
+  color: #fff;
+}
